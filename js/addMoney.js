@@ -37,3 +37,5 @@ document.getElementById('btn-add-money')
             alert('Faild to add money !Please try again.')
         }
     })
+
+    // mAIN --->> addMoney.js  or home.js both are same .
